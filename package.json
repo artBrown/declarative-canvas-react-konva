@@ -19,7 +19,7 @@
   },
   "homepage": "https://swizec.github.io/declarative-canvas-react-konva",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3014 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
